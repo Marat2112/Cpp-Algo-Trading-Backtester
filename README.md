@@ -27,7 +27,7 @@
 bash
 
 Клонировать репозиторий
-git clone https://github.com/yourname/Cpp-Algo-Trading-Backtester.git
+git clone https://github.com/Marat2112/Cpp-Algo-Trading-Backtester.git
 cd Cpp-Algo-Trading-Backtester
 
 # Сборка через Make
